@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly
-psycopg2
+psycopg2>=2.7,<2.8 --no-binary psycopg2
 requests
 tweepy
 numpy
